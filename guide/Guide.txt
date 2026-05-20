@@ -1,0 +1,74 @@
+© 2026 MD SHOVON
+This research and theory are licensed under
+MD SHOVON SYSTEMUI MOD LICENSE (MSSML) v1.1
+Unauthorized ownership claims are prohibited.
+
+MODING LOS21 SYSTEMUI APK
+
+# Target - Remove "QS Footer Build ID text"
+
+# The Real Question:
+• Can this specific smali logic be done using OVERLAY?
+• NO — not with a normal Runtime Resource Overlay (RRO). But Why? 
+
+# Overlays can modify only:
+res/values/*, layouts, drawables, dimens, bools, integers, strings.
+These are static resources only, not runtime logic.
+
+# Overlays CANNOT:
+• Modify or override smali / Java / Kotlin methods
+• Change runtime execution flow
+• Bypass conditional checks (UserManager, Developer Options, etc.)
+• Inject or remove method logic inside SystemUI
+
+This limitation makes logic-level changes like this impossible via RRO.
+
+# Target file: "QSFooterView.smali"
+
+# This is:
+A runtime logic method, not a resource
+Responsible for dynamically generating build text
+Controlled by system conditions (developer settings, user state)
+Executed during UI lifecycle
+
+This behavior is code-driven, not resource-driven
+So pure overlay is impossible for this logic.
+Therefore: overlay cannot affect it.
+
+It's very difficult to find out... After a lot of research, I found the main point.
+A small mistake can ruin your phone because it is a completely live file.
+ 
+# Main file location:
+SystemUI_src/smali/com/android/systemui/qs/QSFooterView.smali
+
+# Requirement Tools For (Android)
+  1. ApkTool M V2.4.0 apk
+  2. MT Manager apk
+  3. Termux (Optional)
+
+Warning!
+The author of this build, as well as the developer MD Shovon, are not responsible for any possible damage, malfunctions, device bricking, or data loss that may result from using this modification.
+Use this modification at your own risk.
+Before performing any actions, please back up your SystemUI.apk using any method you are comfortable with.
+  
+NOTE : The most important thing to do is to use your brain and valuable time to work deeply.
+
+# THIS IS THE KEY
+.method public final setBuildText()V
+    .locals 0
+
+    return-void
+.end method
+
+# Look at this line 
+.line 349 to 
+.line 714 Remove / Replace all instructions within this section with THE KEY logic.
+
+
+AndroidDev  : MD SHOVON
+Tested      : Lineage OS 21 (AOSP)
+Android     : 14 (Upside Down Cake)
+Build Date  : SAT/MAY/02/05/2026-6:33 PM
+
+# Original Modification by MD SHOVON
+# License: MSSML v1.1
