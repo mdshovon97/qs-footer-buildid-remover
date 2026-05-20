@@ -2,46 +2,64 @@
 
 # ⚡ MATRIX SYSTEM BOOT
 
-### QS FOOTER BUILD ID REMOVER
+## QS FOOTER BUILD ID REMOVER
 
-> Advanced SystemUI runtime smali modification  
-> for removing QS Footer Build ID text from AOSP ROMs.
-
-<img src="preview/banner.jpg" width="100%">
-
-<br><br>
-
-![ANDROID](https://img.shields.io/badge/ANDROID-12--16-red?style=for-the-badge)
-![SYSTEMUI](https://img.shields.io/badge/TARGET-SystemUI-black?style=for-the-badge)
-![AOSP](https://img.shields.io/badge/ROM-AOSP-darkred?style=for-the-badge)
-![LINEAGEOS](https://img.shields.io/badge/LINEAGEOS-21-red?style=for-the-badge)
+Advanced Android SystemUI runtime smali modification  
+for removing QS Footer Build ID text from AOSP-based ROMs.
 
 <br>
 
-```txt id="c10mhh"
-MR MATRIX // RUNTIME MODIFICATION PROTOCOL
-ROOT ACCESS GRANTED
-SYSTEMUI TARGET DETECTED
+<img src="preview/banner.jpg" width="100%">
 
-# 📸 Preview
+<br>
 
-<div align="center">
-
-| BEFORE | AFTER |
-|--------|--------|
-| <img src="preview/before.png" width="260"/> | <img src="preview/after.png" width="260"/> |
+<img src="https://img.shields.io/badge/ANDROID-12--16-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/TARGET-SystemUI-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/ROM-AOSP-darkred?style=for-the-badge">
+<img src="https://img.shields.io/badge/LINEAGEOS-21-red?style=for-the-badge">
 
 </div>
 
 ---
 
-# 📖 About This Research
+# 📸 PREVIEW
 
-This project demonstrates how to remove the  
-QS Footer Build ID text directly from Android SystemUI runtime logic.
+<div align="center">
 
-The modification targets live smali implementation inside:
+<table>
+<tr>
 
+<td align="center">
+
+## BEFORE
+
+<img src="preview/before.png" width="260">
+
+</td>
+
+<td align="center">
+
+## AFTER
+
+<img src="preview/after.png" width="260">
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🧠 ABOUT THIS RESEARCH
+
+```txt
+MR MATRIX // RUNTIME MODIFICATION PROTOCOL
+
+ROOT ACCESS GRANTED
+SYSTEMUI TARGET DETECTED
+SMALI OVERRIDE ACTIVE
 ```txt
 com/android/systemui/qs/QSFooterView.smali
 Target smali path:
