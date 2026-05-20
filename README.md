@@ -1,26 +1,46 @@
-# MATRIX SYSTEM BOOT
-## QS Footer Build ID Remover
+<div align="center">
 
-SystemUI smali modification guide for removing
+# ⚡ MATRIX SYSTEM BOOT
+
+### QS Footer Build ID Remover
+
+SystemUI smali modification guide for removing  
 QS Footer Build ID text from AOSP-based ROMs.
 
+<img src="preview/banner.png" width="100%"/>
+
+<br>
+
+![ANDROID](https://img.shields.io/badge/ANDROID-12--16-red?style=for-the-badge)
+![AOSP](https://img.shields.io/badge/ROM-AOSP-black?style=for-the-badge)
+![LINEAGEOS](https://img.shields.io/badge/LINEAGEOS-21-darkred?style=for-the-badge)
+![SYSTEMUI](https://img.shields.io/badge/TARGET-SystemUI-red?style=for-the-badge)
+
+</div>
+
 ---
 
-# Preview
+# 📸 Preview
 
-## Before
-![Before](preview/before.png)
+<div align="center">
 
-## After
-![After](preview/after.png)
+| BEFORE | AFTER |
+|--------|--------|
+| <img src="preview/before.png" width="260"/> | <img src="preview/after.png" width="260"/> |
+
+</div>
 
 ---
 
-# About This Research
+# 📖 About This Research
 
-This project demonstrates how to remove the
-QS Footer Build ID text from Android SystemUI.
+This project demonstrates how to remove the  
+QS Footer Build ID text directly from Android SystemUI runtime logic.
 
+The modification targets live smali implementation inside:
+
+```txt
+com/android/systemui/qs/QSFooterView.smali
 Target smali path:
 
 ```txt
