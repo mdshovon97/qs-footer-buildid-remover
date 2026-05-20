@@ -1,0 +1,100 @@
+MD SHOVON SYSTEMUI MOD LICENSE (MSSML) v1.1
+Copyright © 2026 MD SHOVON
+
+--------------------------------------------------
+
+1. DEFINITIONS
+
+"Modification" refers to this work, including all associated files, smali changes,
+documentation, and implementation related to:
+
+• LineageOS SystemUI
+• QS Footer Build ID text removal
+• Associated UI behavior adjustments
+
+"Work" refers to the original modification authored by MD SHOVON.
+
+--------------------------------------------------
+
+2. OWNERSHIP
+
+This Work is original and exclusively authored by MD SHOVON.
+
+All rights, title, and interest in the Work remain solely with the author.
+No individual or entity may claim ownership, authorship, or origin of this Work.
+
+--------------------------------------------------
+
+3. GRANT OF PERMISSION
+
+Subject to the terms of this license, permission is granted to any individual to:
+
+• Use the Work for personal, educational, and research purposes
+• Study and analyze the implementation
+• Share the original, unmodified Work with proper attribution
+
+--------------------------------------------------
+
+4. MODIFICATION AND REDISTRIBUTION
+
+You may modify and redistribute the Work ONLY if ALL conditions below are met:
+
+• Full and clear credit is given to MD SHOVON
+• This license is included in its entirety without modification
+• All changes are explicitly documented
+• The modified version is not misrepresented as original work
+
+--------------------------------------------------
+
+5. RESTRICTIONS
+
+The following actions are strictly prohibited:
+
+• Claiming authorship or ownership of the Work
+• Removing, altering, or obscuring attribution
+• Re-licensing or sublicensing under any other license
+• Commercial use, including selling, monetizing, or bundling in paid ROMs, modules, or services
+• Use within proprietary or closed-source systems
+• Imposing DRM, legal restrictions, or access limitations on this Work
+
+Any attempt to override or supersede this license is null and void.
+
+--------------------------------------------------
+
+6. ATTRIBUTION REQUIREMENT
+
+Any public use, distribution, or reference must include the following:
+
+"Original SystemUI modification by MD SHOVON"
+
+Attribution must be visible and not hidden.
+
+--------------------------------------------------
+
+7. DISCLAIMER OF WARRANTY
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED.
+
+THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+INCLUDING BUT NOT LIMITED TO:
+
+• Device damage or bricking
+• Bootloops or SystemUI instability
+• Data loss
+• Any direct or indirect damages
+
+USE OF THIS WORK IS AT YOUR OWN RISK.
+
+--------------------------------------------------
+
+8. TERMINATION
+
+Any violation of the terms of this license will result in immediate termination
+of all granted permissions.
+
+Upon termination, all usage and distribution must cease immediately.
+
+--------------------------------------------------
+
+Released: May 2026
