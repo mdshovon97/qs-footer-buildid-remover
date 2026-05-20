@@ -2,23 +2,26 @@
 
 # ⚡ MATRIX SYSTEM BOOT
 
-### QS Footer Build ID Remover
+### QS FOOTER BUILD ID REMOVER
 
-SystemUI smali modification guide for removing  
-QS Footer Build ID text from AOSP-based ROMs.
+> Advanced SystemUI runtime smali modification  
+> for removing QS Footer Build ID text from AOSP ROMs.
 
-<img src="preview/banner.png" width="100%"/>
+<img src="preview/banner.jpg" width="100%">
+
+<br><br>
+
+![ANDROID](https://img.shields.io/badge/ANDROID-12--16-red?style=for-the-badge)
+![SYSTEMUI](https://img.shields.io/badge/TARGET-SystemUI-black?style=for-the-badge)
+![AOSP](https://img.shields.io/badge/ROM-AOSP-darkred?style=for-the-badge)
+![LINEAGEOS](https://img.shields.io/badge/LINEAGEOS-21-red?style=for-the-badge)
 
 <br>
 
-![ANDROID](https://img.shields.io/badge/ANDROID-12--16-red?style=for-the-badge)
-![AOSP](https://img.shields.io/badge/ROM-AOSP-black?style=for-the-badge)
-![LINEAGEOS](https://img.shields.io/badge/LINEAGEOS-21-darkred?style=for-the-badge)
-![SYSTEMUI](https://img.shields.io/badge/TARGET-SystemUI-red?style=for-the-badge)
-
-</div>
-
----
+```txt id="c10mhh"
+MR MATRIX // RUNTIME MODIFICATION PROTOCOL
+ROOT ACCESS GRANTED
+SYSTEMUI TARGET DETECTED
 
 # 📸 Preview
 
