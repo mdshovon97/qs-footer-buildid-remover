@@ -75,7 +75,7 @@ this modification requires direct smali editing.
 
 ---
 
-# Main Target Method
+# THIS IS THE KEY
 
 ```smali
 .method public final setBuildText()V
