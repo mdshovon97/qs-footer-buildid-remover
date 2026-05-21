@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:1a0000,100:ff0000&text=⚡%20MATRIX%20SYSTEM%20BOOT&fontColor=ffffff&fontSize=45&fontAlignY=40&animation=fadeIn&desc=ANDROID%20SYSTEMUI%20RUNTIME%20MODIFICATION%20PROTOCOL&descAlignY=60"/>
+<img src="preview/banner.jpg"/>
 
 </div>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=ROOT+ACCESS+GRANTED;SYSTEMUI+TARGET+DETECTED;QS+FOOTER+BUILD+ID+REMOVER;ANDROID+RUNTIME+SMALI+MODIFICATION;MR+MATRIX+%7C+SHOVON+X+OS"/>
@@ -39,11 +40,6 @@ for removing QS Footer Build ID text from AOSP ROMs.
 
 ---
 
-<div align="center">
-
-<img src="preview/banner.jpg"/>
-
-</div>
 
 ---
 
