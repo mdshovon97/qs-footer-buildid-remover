@@ -4,9 +4,8 @@
 
 </div>
 
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=ROOT+ACCESS+GRANTED;SYSTEMUI+TARGET+DETECTED;QS+FOOTER+BUILD+ID+REMOVER;ANDROID+RUNTIME+SMALI+MODIFICATION;MR+MATRIX+%7C+SHOVON+X+OS"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=ROOT+ACCESS+GRANTED;SYSTEMUI+QS+FOOTER+BUILD+ID+REMOVED;ANDROID+RUNTIME+SMALI+MODIFICATION;MR+MATRIX+%7C+SHOVON+X+OS"/>
 </p>
 
 ---
@@ -15,7 +14,7 @@
 
 <img src="https://img.shields.io/badge/ANDROID-12--16-red?style=for-the-badge&logo=android&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SYSTEMUI-SMALI-black?style=for-the-badge&logo=android"/>
+<img src="https://img.shields.io/badge/SYSTEMUI-SMALI-red?style=for-the-badge&logo=android"/>
 
 <img src="https://img.shields.io/badge/ROOT-REQUIRED-darkred?style=for-the-badge"/>
 
@@ -29,7 +28,7 @@
 
 <div align="center">
 
-# MATRIX SYSTEM BOOT
+# ⚡ MATRIX SYSTEM BOOT
 
 ### QS FOOTER BUILD ID REMOVER
 
@@ -40,23 +39,35 @@ for removing QS Footer Build ID text from AOSP ROMs.
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284068-7c9c8c6d-8f4b-4d87-b7f2-3fbbf6d3b2d5.gif">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284068-7c9c8c6d-8f4b-4d87-b7f2-3fbbf6d3b2d5.gif"/>
+</p>
+
+---
 
 <div align="left">
 
-# SYSTEM PREVIEW
+# ⚡ SYSTEM PREVIEW
 
 </div>
 
-<table align="left">
+<table>
 <tr>
-<th>BEFORE</th>
-<th>AFTER</th>
-</tr>
+<td align="left">
 
-<tr>
-<td><img src="preview/before.png" width="300"/></td>
-<td><img src="preview/after.png" width="300"/></td>
+### BEFORE
+
+<img src="preview/before.png" width="300"/>
+
+</td>
+
+<td align="left">
+
+### AFTER
+
+<img src="preview/after.png" width="300"/>
+
+</td>
 </tr>
 </table>
 
@@ -64,7 +75,7 @@ for removing QS Footer Build ID text from AOSP ROMs.
 
 <div align="left">
 
-# ROOT TERMINAL STATUS
+# ⚡ ROOT TERMINAL STATUS
 
 </div>
 
@@ -80,7 +91,7 @@ for removing QS Footer Build ID text from AOSP ROMs.
 
 <div align="left">
 
-# BOUT THIS MODIFICATION
+# ⚡ ABOUT THIS MODIFICATION
 
 </div>
 
@@ -104,7 +115,7 @@ com/android/systemui/qs/QSFooterView.smali
 
 <div align="left">
 
-# WHY RRO CANNOT DO THIS
+# ⚡ WHY RRO CANNOT DO THIS
 
 </div>
 
@@ -132,12 +143,9 @@ this modification requires direct smali editing.
 
 <div align="left">
 
-# THIS IS THE KEY
+# ⚡ THIS IS THE KEY
 
 </div>
-
-<details>
-<summary> VIEW MAIN SMALI IMPLEMENTATION</summary>
 
 ```smali
 .method public final setBuildText()V
@@ -147,13 +155,11 @@ this modification requires direct smali editing.
 .end method
 ```
 
-</details>
-
 ---
 
 <div align="left">
 
-# TARGET LINES
+# ⚡ TARGET LINES
 
 </div>
 
@@ -161,14 +167,13 @@ this modification requires direct smali editing.
 .line 349 → .line 714
 ```
 
-Replace all instructions between these lines  
-with the implementation above.
-
+Remove / Replace all instructions
+within this section with THE KEY logic.
 ---
 
 <div align="left">
 
-# FILE LOCATION
+# ⚡ FILE LOCATION
 
 </div>
 
@@ -184,13 +189,15 @@ SystemUI_src/smali/com/android/systemui/qs/QSFooterView.smali
 
 </div>
 
- ROM | STATUS 
- AOSP LineageOS ✅ 
+| ROM | STATUS |
+| :--- | :---: |
+| AOSP | ✅ |
+| LineageOS | ✅ |
 
 ---
 
 | ANDROID VERSION | STATUS |
-|------|------|
+| :--- | :---: |
 | Android 12 | ✅ |
 | Android 13 | ✅ |
 | Android 14 | ✅ |
@@ -201,13 +208,13 @@ SystemUI_src/smali/com/android/systemui/qs/QSFooterView.smali
 
 <div align="left">
 
-# VIDEO GUIDE
+# 🎥 VIDEO GUIDE
 
 </div>
 
-```txt
-resources/16-min-video-guide.txt
-```
+> 🎬 16 MIN VIDEO GUIDE
+
+[▶ WATCH NOW](https://drive.google.com/file/d/1RmnqVLj7OcPUXbx0bZnTiQ_T_-4UruUX/view?usp=drivesdk)
 
 ---
 
@@ -222,14 +229,15 @@ resources/16-min-video-guide.txt
 - INCORRECT IMPLEMENTATION MAY CAUSE:
 ```
 
-The author of this build, as well as the
-developer MD Shovon, are not responsible for any
-possible damage, malfunctions, device bricking,
-or data loss that may result from using this
-modification.
-Use this modificaton at your own risk.
-Before perfoming any actions, please back up 
-your SystemUI.apk using any method you are
+The author of this build, as well as the developer  
+MD Shovon, are not responsible for any possible damage,  
+malfunctions, device bricking, or data loss that may  
+result from using this modification.
+
+Use this modification at your own risk.
+
+Before performing any actions, please back up  
+your `SystemUI.apk` using any method you are  
 comfortable with.
 
 ---
@@ -240,19 +248,21 @@ comfortable with.
 
 </div>
 
-<p align="left">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdshovon97&show_icons=true&theme=transparent&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshovon97&theme=highcontrast&ring=ff0000&fire=ff0000&currStreakLabel=ff0000"/>
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=mdshovon97&show_icons=true&theme=tokyonight&hide_border=false&border_color=ff0000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
 
 </p>
 
----
+<p align="center">
 
-<p align="left">
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshovon97&theme=highcontrast&hide_border=false&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&background=000000"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshovon97&layout=compact&theme=transparent&title_color=ff0000&text_color=ffffff&border_color=ff0000"/>
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshovon97&layout=compact&theme=tokyonight&hide_border=false&border_color=ff0000&title_color=ff0000&text_color=ffffff&bg_color=000000"/>
 
 </p>
 
@@ -264,7 +274,7 @@ comfortable with.
 
 </div>
 
-<p align="left">
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -274,11 +284,11 @@ comfortable with.
 
 <div align="left">
 
-# CYBERPUNK HUD
+# ⚡ CYBERPUNK HUD
 
 </div>
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=android,linux,git,github,kotlin,java,bash"/>
 
@@ -288,7 +298,7 @@ comfortable with.
 
 <div align="left">
 
-# LICENSE
+# ⚡ LICENSE
 
 </div>
 
@@ -298,19 +308,9 @@ Licensed under:
 MD SHOVON SYSTEMUI MOD LICENSE (MSSML) v1.1
 ```
 
-See:
-
-```txt
-LICENSE.txt
-```
-
 ---
 
-<div align="left">
-
-# CREDITS
-
-Original SystemUI modification by
+<div align="center">
 
 # MR MATRIX • SHOVON X OS
 
@@ -318,7 +318,7 @@ Original SystemUI modification by
 
 ---
 
-<div align="left">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:1a0000,100:ff0000"/>
 
