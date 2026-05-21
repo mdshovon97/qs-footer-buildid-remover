@@ -29,7 +29,7 @@
 
 <div align="center">
 
-# ⚡ MATRIX SYSTEM BOOT
+# MATRIX SYSTEM BOOT
 
 ### QS FOOTER BUILD ID REMOVER
 
@@ -40,18 +40,15 @@ for removing QS Footer Build ID text from AOSP ROMs.
 
 ---
 
-
----
-
 <img src="https://user-images.githubusercontent.com/74038190/212284068-7c9c8c6d-8f4b-4d87-b7f2-3fbbf6d3b2d5.gif">
 
-<div align="center">
+<div align="left">
 
-# ⚡ SYSTEM PREVIEW
+# SYSTEM PREVIEW
 
 </div>
 
-<table align="center">
+<table align="left">
 <tr>
 <th>BEFORE</th>
 <th>AFTER</th>
@@ -65,9 +62,9 @@ for removing QS Footer Build ID text from AOSP ROMs.
 
 ---
 
-<div align="center">
+<div align="left">
 
-# ⚡ ROOT TERMINAL STATUS
+# ROOT TERMINAL STATUS
 
 </div>
 
@@ -81,9 +78,9 @@ for removing QS Footer Build ID text from AOSP ROMs.
 
 ---
 
-<div align="center">
+<div align="left">
 
-# ⚡ ABOUT THIS MODIFICATION
+# BOUT THIS MODIFICATION
 
 </div>
 
@@ -105,9 +102,9 @@ com/android/systemui/qs/QSFooterView.smali
 
 ---
 
-<div align="center">
+<div align="left">
 
-# ⚡ WHY RRO CANNOT DO THIS
+# WHY RRO CANNOT DO THIS
 
 </div>
 
@@ -133,14 +130,14 @@ this modification requires direct smali editing.
 
 ---
 
-<div align="center">
+<div align="left">
 
-# ⚡ MAIN IMPLEMENTATION
+# THIS IS THE KEY
 
 </div>
 
 <details>
-<summary>⚡ VIEW MAIN SMALI IMPLEMENTATION</summary>
+<summary> VIEW MAIN SMALI IMPLEMENTATION</summary>
 
 ```smali
 .method public final setBuildText()V
@@ -154,9 +151,9 @@ this modification requires direct smali editing.
 
 ---
 
-<div align="center">
+<div align="left">
 
-# ⚡ TARGET LINES
+# TARGET LINES
 
 </div>
 
@@ -169,9 +166,9 @@ with the implementation above.
 
 ---
 
-<div align="center">
+<div align="left">
 
-# ⚡ FILE LOCATION
+# FILE LOCATION
 
 </div>
 
@@ -181,18 +178,14 @@ SystemUI_src/smali/com/android/systemui/qs/QSFooterView.smali
 
 ---
 
-<div align="center">
+<div align="left">
 
-# ⚡ SYSTEM COMPATIBILITY
+# SYSTEM COMPATIBILITY
 
 </div>
 
-| ROM | STATUS |
-|------|------|
-| AOSP | ✅ |
-| LineageOS | ✅ |
-| PixelOS | ✅ |
-| Evolution X | ✅ |
+ ROM | STATUS 
+ AOSP LineageOS ✅ 
 
 ---
 
@@ -206,9 +199,9 @@ SystemUI_src/smali/com/android/systemui/qs/QSFooterView.smali
 
 ---
 
-<div align="center">
+<div align="left">
 
-# ⚡ VIDEO GUIDE
+# VIDEO GUIDE
 
 </div>
 
@@ -218,9 +211,9 @@ resources/16-min-video-guide.txt
 
 ---
 
-<div align="center">
+<div align="left">
 
-# ⚡ WARNING
+# WARNING!
 
 </div>
 
@@ -229,22 +222,25 @@ resources/16-min-video-guide.txt
 - INCORRECT IMPLEMENTATION MAY CAUSE:
 ```
 
-- SystemUI crash
-- bootloop
-- instability
-- data loss
-
-Backup SystemUI.apk before modification.
+The author of this build, as well as the
+developer MD Shovon, are not responsible for any
+possible damage, malfunctions, device bricking,
+or data loss that may result from using this
+modification.
+Use this modificaton at your own risk.
+Before perfoming any actions, please back up 
+your SystemUI.apk using any method you are
+comfortable with.
 
 ---
 
-<div align="center">
+<div align="left">
 
-# ⚡ GITHUB SYSTEM STATS
+# GITHUB SYSTEM STATS
 
 </div>
 
-<p align="center">
+<p align="left">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdshovon97&show_icons=true&theme=transparent&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000"/>
 
@@ -254,13 +250,7 @@ Backup SystemUI.apk before modification.
 
 ---
 
-<div align="center">
-
-# ⚡ LANGUAGE MATRIX
-
-</div>
-
-<p align="center">
+<p align="left">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshovon97&layout=compact&theme=transparent&title_color=ff0000&text_color=ffffff&border_color=ff0000"/>
 
@@ -268,13 +258,13 @@ Backup SystemUI.apk before modification.
 
 ---
 
-<div align="center">
+<div align="left">
 
-# ⚡ CONTRIBUTION MATRIX
+# CONTRIBUTION MATRIX
 
 </div>
 
-<p align="center">
+<p align="left">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -282,13 +272,13 @@ Backup SystemUI.apk before modification.
 
 ---
 
-<div align="center">
+<div align="left">
 
-# ⚡ CYBERPUNK HUD
+# CYBERPUNK HUD
 
 </div>
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=android,linux,git,github,kotlin,java,bash"/>
 
@@ -296,9 +286,9 @@ Backup SystemUI.apk before modification.
 
 ---
 
-<div align="center">
+<div align="left">
 
-# ⚡ LICENSE
+# LICENSE
 
 </div>
 
@@ -316,9 +306,9 @@ LICENSE.txt
 
 ---
 
-<div align="center">
+<div align="left">
 
-# ⚡ CREDITS
+# CREDITS
 
 Original SystemUI modification by
 
@@ -328,7 +318,7 @@ Original SystemUI modification by
 
 ---
 
-<div align="center">
+<div align="left">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:1a0000,100:ff0000"/>
 
