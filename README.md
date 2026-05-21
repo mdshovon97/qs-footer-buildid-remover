@@ -41,7 +41,7 @@ for removing QS Footer Build ID text from AOSP ROMs.
 
 <div align="center">
 
-<img src="preview/banner.png"/>
+<img src="preview/banner.jng"/>
 
 </div>
 
