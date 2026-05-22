@@ -26,16 +26,13 @@
 
 <div align="center">
 
-### QS FOOTER BUILD ID REMOVER
-
-Advanced Android SystemUI runtime smali modification  
-for removing QS Footer Build ID text from AOSP ROMs.
+<img src="preview/bg.png"/>
 
 </div>
 
 ---
 
-<p align="center">
+<p align="left">
 <img src="https://user-images.githubusercontent.com/74038190/212284068-7c9c8c6d-8f4b-4d87-b7f2-3fbbf6d3b2d5.gif"/>
 </p>
 
@@ -47,25 +44,31 @@ for removing QS Footer Build ID text from AOSP ROMs.
 
 </div>
 
-<table>
+<table align="left">
+
 <tr>
+
 <td align="left">
 
-#### BEFORE
+###  BEFORE
 
-<img src="preview/before.png" width="300"/>
+<img src="preview/before.png" width="340"/>
 
 </td>
 
 <td align="left">
 
-#### AFTER
+###  AFTER
 
-<img src="preview/after.png" width="300"/>
+<img src="preview/after.png" width="340"/>
 
 </td>
+
 </tr>
+
 </table>
+
+<br clear="left"/>
 
 ---
 
