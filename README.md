@@ -30,7 +30,7 @@
 
 <div align="left">
 
-# SYSTEM PREVIEW
+# PREVIEW
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <td align="left">
 
-###  BEFORE
+###  ⚪ BEFORE
 
 <img src="preview/before.png" width="340"/>
 
@@ -48,7 +48,7 @@
 
 <td align="left">
 
-###  AFTER
+###  ⚪ AFTER
 
 <img src="preview/after.png" width="340"/>
 
