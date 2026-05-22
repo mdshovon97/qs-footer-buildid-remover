@@ -12,23 +12,19 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ANDROID-12--16-red?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/ANDROID-12--16-red?style=for-the-baddiv&logo=android&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SYSTEMUI-SMALI-red?style=for-the-badge&logo=android"/>
+<img src="https://img.shields.io/badge/SYSTEMUI-SMALI-red?style=for-the-baddiv&logo=android"/>
 
-<img src="https://img.shields.io/badge/ROOT-REQUIRED-darkred?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ROOT-REQUIRED-darkred?style=for-the-baddiv"/>
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-red?style=for-the-baddiv"/>
 
-<img src="https://img.shields.io/badge/LICENSE-MSSML-red?style=for-the-badge"/>
-
-</div>
+<img src="https://img.shields.io/badge/LICENSE-MSSML-red?style=for-the-baddiv"/>
 
 ---
 
 <div align="center">
-
-# ⚡ MATRIX SYSTEM BOOT
 
 ### QS FOOTER BUILD ID REMOVER
 
@@ -47,7 +43,7 @@ for removing QS Footer Build ID text from AOSP ROMs.
 
 <div align="left">
 
-# ⚡ SYSTEM PREVIEW
+# SYSTEM PREVIEW
 
 </div>
 
@@ -55,7 +51,7 @@ for removing QS Footer Build ID text from AOSP ROMs.
 <tr>
 <td align="left">
 
-### BEFORE
+#### BEFORE
 
 <img src="preview/before.png" width="300"/>
 
@@ -63,7 +59,7 @@ for removing QS Footer Build ID text from AOSP ROMs.
 
 <td align="left">
 
-### AFTER
+#### AFTER
 
 <img src="preview/after.png" width="300"/>
 
@@ -75,23 +71,7 @@ for removing QS Footer Build ID text from AOSP ROMs.
 
 <div align="left">
 
-# ⚡ ROOT TERMINAL STATUS
-
-</div>
-
-```diff
-+ ROOT ACCESS GRANTED
-+ SYSTEMUI RUNTIME DETECTED
-+ TARGET METHOD LOCATED
-+ SMALI PATCH READY
-- RRO OVERLAY METHOD REJECTED
-```
-
----
-
-<div align="left">
-
-# ⚡ ABOUT THIS MODIFICATION
+# ABOUT THIS MODIFICATION
 
 </div>
 
@@ -115,7 +95,7 @@ com/android/systemui/qs/QSFooterView.smali
 
 <div align="left">
 
-# ⚡ WHY RRO CANNOT DO THIS
+# WHY RRO CANNOT DO THIS
 
 </div>
 
@@ -143,7 +123,7 @@ this modification requires direct smali editing.
 
 <div align="left">
 
-# ⚡ THIS IS THE KEY
+# THIS IS THE KEY
 
 </div>
 
@@ -159,7 +139,7 @@ this modification requires direct smali editing.
 
 <div align="left">
 
-# ⚡ TARGET LINES
+# TARGET LINES
 
 </div>
 
@@ -173,7 +153,7 @@ within this section with THE KEY logic.
 
 <div align="left">
 
-# ⚡ FILE LOCATION
+# FILE LOCATION
 
 </div>
 
@@ -225,8 +205,8 @@ SystemUI_src/smali/com/android/systemui/qs/QSFooterView.smali
 </div>
 
 ```diff
-- THIS MODIFICATION AFFECTS LIVE SYSTEMUI RUNTIME
-- INCORRECT IMPLEMENTATION MAY CAUSE:
+ THIS MODIFICATION AFFECTS LIVE SYSTEMUI RUNTIME
+ INCORRECT IMPLEMENTATION MAY CAUSE:
 ```
 
 The author of this build, as well as the developer  
@@ -274,7 +254,7 @@ comfortable with.
 
 </div>
 
-<p align="center">
+<p align="ce">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -284,7 +264,7 @@ comfortable with.
 
 <div align="left">
 
-# ⚡ CYBERPUNK HUD
+# CYBERPUNK HUD
 
 </div>
 
@@ -298,19 +278,19 @@ comfortable with.
 
 <div align="left">
 
-# ⚡ LICENSE
+# LICENSE
 
 </div>
 
 Licensed under:
 
 ```txt
-MD SHOVON SYSTEMUI MOD LICENSE (MSSML) v1.1
+`MD SHOVON SYSTEMUI MOD LICENSE (MSSML) v1.1`
 ```
 
 ---
 
-<div align="center">
+<div align="left">
 
 # MR MATRIX • SHOVON X OS
 
