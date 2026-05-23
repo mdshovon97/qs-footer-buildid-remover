@@ -25,7 +25,7 @@
 
 ---
 <div align="left">
-<img src="https://img.shields.io/badge/PREVIEW-red?style=for-the-baddiv&labelColor=dark"/>
+<img src="https://img.shields.io/badge/PREVIEW-blue?style=for-the-baddiv&labelColor=dark"/>
 </div>
 
 
@@ -91,7 +91,7 @@ The most important thing to do is to use your brain and valuable time to work de
 ```
 
 <div align="left">
-<img src="https://img.shields.io/badge/THIS IS THE KEY:-0d1117?style=for-the-baddiv&labelColor=red"/>
+<img src="https://img.shields.io/badge/THIS IS THE KEY:-blue?style=for-the-baddiv&labelColor=dark"/>
 </div>
 
 ```smali
@@ -102,7 +102,12 @@ The most important thing to do is to use your brain and valuable time to work de
 .end method
 ```
 
----
+<br>
+<a href="https://drive.google.com/file/d/1DkoQKksWeWSMzcwlY39YwyL5T5PAhOYh/view?usp=drivesdk">
+
+<img src="https://img.shields.io/badge/ApkTool_M-red?style=for-the-baddiv&logo=android&logoColor=white"/>
+</a>
+</div>
 
 
 <div align="center">
