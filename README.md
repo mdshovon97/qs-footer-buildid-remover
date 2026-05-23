@@ -101,18 +101,23 @@ The most important thing to do is to use your brain and valuable time to work de
     return-void
 .end method
 ```
-Requirements Tools
+<div align="left">
+
+<img src="https://img.shields.io/badge/REQUIREMENTS%20TOOLS-0d1117?style=for-the-badge&logo=android&logoColor=ff0000&labelColor=000000"/>
+
+<br><br>
+
+╭─━━━━━━━━━━━━━━━─╮  
+⚡ SYSTEM TOOLCHAIN MATRIX  
+╰─━━━━━━━━━━━━━━━─╯
+
 <br>
-<a href="https://drive.google.com/file/d/1DkoQKksWeWSMzcwlY39YwyL5T5PAhOYh/view?usp=drivesdk">
 
-<img src="https://img.shields.io/badge/ApkTool_M-red?style=for-the-baddiv&logo=android&logoColor=white"/>
+<a href="https://drive.google.com/file/d/1DkoQKksWeWSMzcwlY39YwyL5T5PAhOYh/view?usp=drivesdk"><img src="https://img.shields.io/badge/APKTOOL_M-ff0000?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117"/></a>
 
-<a href="https://drive.google.com/file/d/1iCkNd9TFsj7EgBBzbyIBbj9l5Oxn3FiT/view?usp=drivesdk">
-
-<img src="https://img.shields.io/badge/MT Manager-red?style=for-the-baddiv&logo=termux&logoColor=green"/>
-</a>
-</div>
-
+```diff
++ RENAME .BIN FILE TO .APK FORMAT
+```
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=1&pause=999999&color=00FF9C&background=00000000&center=true&vCenter=true&repeat=false&width=850&height=85&lines=CONTRIBUTION+MATRIX"/>
