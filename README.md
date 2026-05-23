@@ -136,3 +136,15 @@ The most important thing to do is to use your brain and valuable time to work de
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-red?style=for-the-baddiv"/>
 </div>
+
+<div align="center">
+
+<pre>
+┌──────────────────────────────────────────────┐
+│  ORIGINAL MODIFICATION BY MD SHOVON         │
+│  LICENSE : MSSML v1.1                       │
+│  SYSTEMUI RUNTIME MODIFICATION FRAMEWORK    │
+└──────────────────────────────────────────────┘
+</pre>
+
+</div>
