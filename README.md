@@ -95,7 +95,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GITHUB-SYSTEM_ACTIVITY-black?style=for-the-baddiv&logo=github&logoColor=red"/>
+<img src="https://img.shields.io/badge/GITHUB-SYSTEM_ACTIVITY-red?style=for-the-baddiv&logo=github&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/MATRIX-CONTRIBUTION-darkred?style=for-the-baddiv"/>
 
