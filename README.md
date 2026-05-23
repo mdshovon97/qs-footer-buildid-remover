@@ -101,11 +101,15 @@ The most important thing to do is to use your brain and valuable time to work de
     return-void
 .end method
 ```
-
+Requirements Tools
 <br>
 <a href="https://drive.google.com/file/d/1DkoQKksWeWSMzcwlY39YwyL5T5PAhOYh/view?usp=drivesdk">
 
 <img src="https://img.shields.io/badge/ApkTool_M-red?style=for-the-baddiv&logo=android&logoColor=white"/>
+
+<a href="https://drive.google.com/file/d/1iCkNd9TFsj7EgBBzbyIBbj9l5Oxn3FiT/view?usp=drivesdk">
+
+<img src="https://img.shields.io/badge/MT Manager-red?style=for-the-baddiv&logo=termux&logoColor=green"/>
 </a>
 </div>
 
