@@ -74,3 +74,31 @@
 
 </a>
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=1800&pause=700&color=00FF9C&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=85&lines=CONTRIBUTION+MATRIX;SYSTEM+ACTIVITY+TRACKER"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GITHUB-SYSTEM_ACTIVITY-black?style=for-the-baddiv&logo=github&logoColor=red"/>
+
+<img src="https://img.shields.io/badge/MATRIX-CONTRIBUTION-darkred?style=for-the-baddiv"/>
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-red?style=for-the-baddiv"/>
+
+</div>
