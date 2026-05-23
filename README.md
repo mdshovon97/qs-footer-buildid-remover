@@ -79,7 +79,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=1800&pause=700&color=00FF9C&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=85&lines=CONTRIBUTION+MATRIX;SYSTEM+ACTIVITY+TRACKER"/>
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=1&pause=999999&color=00FF9C&background=00000000&center=true&vCenter=true&repeat=false&width=850&height=85&lines=CONTRIBUTION+MATRIX"/>
 
 </div>
 
