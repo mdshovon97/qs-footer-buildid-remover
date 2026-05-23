@@ -7,7 +7,6 @@
 </p>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/ANDROID-12--16-red?style=for-the-baddiv&logo=android&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/SYSTEMUI-SMALI-red?style=for-the-baddiv&logo=android"/>
@@ -21,41 +20,32 @@
 ---
 
 <div align="center">
-
 <img src="preview/bg.png"/>
-
 </div>
 
 ---
-
 <div align="left">
-
-# PREVIEW
-
+<img src="https://img.shields.io/badge/PREVIEW-red?style=for-the-baddiv&labelColor=dark"/>
 </div>
 
+
 <table align="left">
-
 <tr>
-
 <td align="left">
-
-###  ⚪ BEFORE
-
+<div align="left">
+<img src="https://img.shields.io/badge/BEFORE-red?style=for-the-baddiv&labelColor=dark"/>
+</div>
 <img src="preview/before.png" width="340"/>
-
 </td>
-
 <td align="left">
 
-###  ⚪ AFTER
+<div align="left">
+<img src="https://img.shields.io/badge/AFTER-red?style=for-the-baddiv&labelColor=dark"/>
+</div>
 
 <img src="preview/after.png" width="340"/>
-
 </td>
-
 </tr>
-
 </table>
 
 <br clear="left"/>
@@ -63,22 +53,18 @@
 ---
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=WATCH+FULL+VIDEO+GUIDE;SYSTEMUI+RUNTIME+MODIFICATION;QS+FOOTER+BUILD+ID+REMOVER"/>
 
 <br>
-
 <a href="https://drive.google.com/file/d/1RmnqVLj7OcPUXbx0bZnTiQ_T_-4UruUX/view?usp=drivesdk">
 
 <img src="https://img.shields.io/badge/WATCH_NOW-GOOGLE_DRIVE-red?style=for-the-baddiv&logo=googledrive&logoColor=green"/>
-
 </a>
 </div>
 
 ---
 
 <div align="left">
-
 <img src="https://img.shields.io/badge/WARNING!-0d1117?style=for-the-baddiv&labelColor=red"/>
 </div>
 
@@ -94,41 +80,45 @@ SystemUI.apk using any method you are comfortable with.
 
 ```
 
-
 <div align="left">
-
 <img src="https://img.shields.io/badge/NOTE:-0d1117?style=for-the-baddiv&labelColor=red"/>
 </div>
 
 <div align="left">
 
 ```txt
-The most important thing to do is to use
-your brain and valuable time to work deeply.
+The most important thing to do is to use your brain and valuable time to work deeply.
 ```
 
-<div align="center">
+<div align="left">
+<img src="https://img.shields.io/badge/THIS IS THE KEY:-0d1117?style=for-the-baddiv&labelColor=red"/>
+</div>
 
+```smali
+.method public final setBuildText()V
+    .locals 0
+
+    return-void
+.end method
+```
+
+---
+
+
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=1&pause=999999&color=00FF9C&background=00000000&center=true&vCenter=true&repeat=false&width=850&height=85&lines=CONTRIBUTION+MATRIX"/>
-
 </div>
-
 <br>
 
 <div align="center">
-
 <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
 </div>
-
 <br>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/GITHUB-SYSTEM_ACTIVITY-red?style=for-the-baddiv&logo=github&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/MATRIX-CONTRIBUTION-darkred?style=for-the-baddiv"/>
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-red?style=for-the-baddiv"/>
-
 </div>
