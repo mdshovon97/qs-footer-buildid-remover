@@ -77,6 +77,36 @@
 
 ---
 
+<div align="left">
+
+<img src="https://img.shields.io/badge/WARNING!-0d1117?style=for-the-baddiv&labelColor=red"/>
+</div>
+
+<div align="left">
+
+```console
+The author of this build, as well as developer MD Shovon,
+are not responsible for any possible damage, malfunctions,
+device bricking, or data loss caused by using this modification.
+Use this modification completely at your own risk.
+Before performing any actions, please back up your
+SystemUI.apk using any method you are comfortable with.
+
+```
+
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/NOTE:-0d1117?style=for-the-baddiv&labelColor=red"/>
+</div>
+
+<div align="left">
+
+```txt
+The most important thing to do is to use
+your brain and valuable time to work deeply.
+```
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=1&pause=999999&color=00FF9C&background=00000000&center=true&vCenter=true&repeat=false&width=850&height=85&lines=CONTRIBUTION+MATRIX"/>
