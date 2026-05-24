@@ -102,18 +102,34 @@ The most important thing to do is to use your brain and valuable time to work de
 .end method
 ```
 <div align="left">
-
-<img src="https://img.shields.io/badge/REQUIREMENTS%20TOOLS-0d1117?style=for-the-badge&logo=android&logoColor=ff0000&labelColor=000000"/>
+<img src="https://img.shields.io/badge/REQUERMENT TOOLS:-0d1117?style=for-the-baddiv&labelColor=red"/>
+</div>
 
 <br><br>
 
-╭─━━━━━━━━━━━━━━━─╮  
-⚡ SYSTEM TOOLCHAIN MATRIX  
-╰─━━━━━━━━━━━━━━━─╯
+<a href="https://maximoff.su/apktool/?lang=en">
+<img src="https://img.shields.io/badge/01-APKTOOL_M-0d1117?style=for-the-badge&logo=android&logoColor=00FF9C&labelColor=ff003c"/>
+</a>
 
-<br>
+<br><br>
 
-<a href="https://drive.google.com/file/d/1DkoQKksWeWSMzcwlY39YwyL5T5PAhOYh/view?usp=drivesdk"><img src="https://img.shields.io/badge/APKTOOL_M-ff0000?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://mt2.cn/">
+<img src="https://img.shields.io/badge/02-MT_MANAGER-0d1117?style=for-the-badge&logo=files&logoColor=ffffff&labelColor=ff003c"/>
+</a>
+
+<br><br>
+
+<a href="https://termux.dev/en/">
+<img src="https://img.shields.io/badge/03-TERMUX_(OPTIONAL)-0d1117?style=for-the-badge&logo=gnubash&logoColor=00FF9C&labelColor=ff003c"/>
+</a>
+
+<br><br><br>
+
+<a href="https://t.me/shovonxos/20">
+<img src="https://img.shields.io/badge/⬇_DOWNLOAD_ALL_TOOLS-ff003c?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117"/>
+</a>
+
+</div>
 
 ```diff
 + RENAME .BIN FILE TO .APK FORMAT
