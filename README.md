@@ -13,21 +13,25 @@
 
 <img src="https://img.shields.io/badge/ROOT-REQUIRED-darkred?style=for-the-baddiv"/>
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-red?style=for-the-baddiv"/>
+<img src="https://img.shields.io/badge/LINEAGE-OS-red?style=for-the-baddiv"/>
 
 <img src="https://img.shields.io/badge/LICENSE-MSSML-red?style=for-the-baddiv"/>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:0d1117&height=2&section=header"/>
+</div>
 
 <div align="center">
 <img src="preview/bg.png"/>
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:0d1117&height=2&section=footer"/>
+</div>
+
 <div align="left">
 <img src="https://img.shields.io/badge/PREVIEW-blue?style=for-the-baddiv&labelColor=dark"/>
 </div>
-
 
 <table align="left">
 <tr>
@@ -69,7 +73,7 @@
 </div>
 
 <div align="left">
-
+    
 ```console
 The author of this build, as well as developer MD Shovon,
 are not responsible for any possible damage, malfunctions,
@@ -121,7 +125,11 @@ The most important thing to do is to use your brain and valuable time to work de
 ```
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=1&pause=999999&color=00FF9C&background=00000000&center=true&vCenter=true&repeat=false&width=850&height=85&lines=CONTRIBUTION+MATRIX"/>
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=1&pause=999999&color=00FF9C&background=00000000&center=true&vCenter=true&repeat=false&width=850&height=85&lines=%E3%80%90+CONTRIBUTION+MATRIX+%E3%80%91"/>
+</div>
+<br>
+
+<img width="82%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png"/>
 </div>
 <br>
 
@@ -131,59 +139,7 @@ The most important thing to do is to use your brain and valuable time to work de
 <br>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2200&pause=900&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=110&lines=%E2%96%88%E2%96%88+CONTRIBUTION+MATRIX+%E2%96%88%E2%96%88;SYSTEM+ACTIVITY+TRACKER"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-ROOT_ACCESS_GRANTED-050505?style=for-the-badge&logo=matrix&logoColor=00FF9C&labelColor=000000"/>
-
-<img src="https://img.shields.io/badge/GITHUB-LIVE_CONTRIBUTION_FEED-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:0d1117&height=2&section=header"/>
-
-</div>
-
-<div align="center">
-
-<pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  SYSTEM MONITOR INITIALIZED          ┃
-┃  TRACKING CONTRIBUTION ACTIVITY      ┃
-┃  MATRIX SYNCHRONIZATION COMPLETE     ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-</pre>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:0d1117&height=2&section=footer"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/MR_MATRIX-PROTOCOL_ACTIVE-050505?style=for-the-badge&logo=ghostery&logoColor=00FF9C&labelColor=000000"/>
-
-<img src="https://img.shields.io/badge/MSSML-v1.1-0d1117?style=for-the-badge&labelColor=000000"/>
-
+<img src="preview/bg1.png"/>
 </div>
 
 <div align="center">
@@ -192,16 +148,4 @@ The most important thing to do is to use your brain and valuable time to work de
 <img src="https://img.shields.io/badge/MATRIX-CONTRIBUTION-darkred?style=for-the-baddiv"/>
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-red?style=for-the-baddiv"/>
-</div>
-
-<div align="center">
-
-<pre>
-┌──────────────────────────────────────────────┐
-│  ORIGINAL MODIFICATION BY MD SHOVON         │
-│  LICENSE : MSSML v1.1                       │
-│  SYSTEMUI RUNTIME MODIFICATION FRAMEWORK    │
-└──────────────────────────────────────────────┘
-</pre>
-
 </div>
