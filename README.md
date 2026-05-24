@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/LICENSE-MSSML-red?style=for-the-baddiv"/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:0d1117&height=2&section=header"/>
+<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/fire.png"/>
 </div>
 
 <div align="center">
@@ -26,11 +26,11 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:0d1117&height=2&section=footer"/>
+<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/fire.png"/>
 </div>
 
 <div align="left">
-<img src="https://img.shields.io/badge/PREVIEW-blue?style=for-the-baddiv&labelColor=dark"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=1&pause=999999&color=FF0000&background=00000000&center=false&vCenter=false&repeat=false&width=850&height=85&lines=PREVIEW"/>
 </div>
 
 <table align="left">
@@ -54,7 +54,9 @@
 
 <br clear="left"/>
 
----
+<div align="center">
+<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/fire.png"/>
+</div>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=WATCH+FULL+VIDEO+GUIDE;SYSTEMUI+RUNTIME+MODIFICATION;QS+FOOTER+BUILD+ID+REMOVER"/>
@@ -66,7 +68,9 @@
 </a>
 </div>
 
----
+<div align="center">
+<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/fire.png"/>
+</div>
 
 <div align="left">
 <img src="https://img.shields.io/badge/WARNING!-0d1117?style=for-the-baddiv&labelColor=red"/>
@@ -127,16 +131,10 @@ The most important thing to do is to use your brain and valuable time to work de
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=1&pause=999999&color=00FF9C&background=00000000&center=true&vCenter=true&repeat=false&width=850&height=85&lines=%E3%80%90+CONTRIBUTION+MATRIX+%E3%80%91"/>
 </div>
-<br>
-
-<img width="82%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png"/>
-</div>
-<br>
 
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
-<br>
 
 <div align="center">
 <img src="preview/bg1.png"/>
