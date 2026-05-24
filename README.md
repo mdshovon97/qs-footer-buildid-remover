@@ -105,34 +105,19 @@ The most important thing to do is to use your brain and valuable time to work de
 <img src="https://img.shields.io/badge/REQUERMENT TOOLS:-0d1117?style=for-the-baddiv&labelColor=red"/>
 </div>
 
-<br><br>
-
-<a href="https://maximoff.su/apktool/?lang=en">
-<img src="https://img.shields.io/badge/01-APKTOOL_M-0d1117?style=for-the-badge&logo=android&logoColor=00FF9C&labelColor=ff003c"/>
-</a>
-
-<br><br>
-
-<a href="https://mt2.cn/">
-<img src="https://img.shields.io/badge/02-MT_MANAGER-0d1117?style=for-the-badge&logo=files&logoColor=ffffff&labelColor=ff003c"/>
-</a>
-
-<br><br>
-
-<a href="https://termux.dev/en/">
-<img src="https://img.shields.io/badge/03-TERMUX_(OPTIONAL)-0d1117?style=for-the-badge&logo=gnubash&logoColor=00FF9C&labelColor=ff003c"/>
-</a>
-
-<br><br><br>
-
+```console
+1. ApkTool M
+2. MT Mananger
+3. Termux (Optional)
+```
 <a href="https://t.me/shovonxos/20">
-<img src="https://img.shields.io/badge/⬇_DOWNLOAD_ALL_TOOLS-ff003c?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/⬇_DOWNLOAD_ALL_TOOLS-ff003c?style=for-the-baddiv&logo=telegram&logoColor=white&labelColor=blue"/>
 </a>
 
 </div>
 
 ```diff
-+ RENAME .BIN FILE TO .APK FORMAT
++ RENAME MT Manager.bin FILE TO .apk FORMAT
 ```
 
 <div align="center">
